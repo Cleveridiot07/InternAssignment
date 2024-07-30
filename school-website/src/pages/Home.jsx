@@ -4,7 +4,7 @@ import Carousel from '../components/Carousel';
 
 const Home = () => {
   return (
-    <div className="flex flex-col min-h-screen min-w-screen flex items-center justify-center">
+    <div className="flex flex-col min-h-screen min-w-screen p-3 flex items-center justify-center">
       <main className="flex-1">
         <section className="bg-muted py-12 md:py-20">
           <div className="container">
